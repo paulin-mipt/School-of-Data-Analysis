@@ -1,0 +1,4 @@
+
+Саппорт хостера. Клиент ругается, что он следовал инструкциям, а теперь не может открыть сайт. Смотрим .htaccess, а там прелесть:Order Deny,AllowDeny from XXX.XXX.XXX.XXXDeny from XXX.XXX.XXX.XXXDeny from All
+
+

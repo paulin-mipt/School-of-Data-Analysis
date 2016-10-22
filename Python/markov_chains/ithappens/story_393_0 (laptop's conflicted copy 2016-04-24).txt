@@ -1,0 +1,4 @@
+
+Ковыряю исходник:if (!shift)str+=" B/s";else if (shift==1)str+=" KB/s";else if (shift==2)str+=" MB/s";else if (shift==3)str+=" GB/s";else if (shift==4)str+=" TB/s";elsestr="n/a"; // If this happens, you really have a fast connection
+
+

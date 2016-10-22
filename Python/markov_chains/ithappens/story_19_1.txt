@@ -1,0 +1,4 @@
+
+Смотрю исходник лабораторной работы по математическим моделям, сделанной одним из студентов. Обнаруживаю такие комментарии:{Дальше идет особая магия!}procedure fbHalfCountClick(Sender: TObject); //Считать методом половинного деленияprocedure fbSerialCountClick(Sender: TObject); //Считать методом последовательных приближенийprocedure fbNewtonCountClick(Sender: TObject); //Считать меня коммунистом
+
+

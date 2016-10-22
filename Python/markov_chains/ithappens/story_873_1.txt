@@ -1,0 +1,4 @@
+
+Из документации к Team Foundation Server:After you save the CHM file locally, you can view its contents by using one of the following methods:Method 1Double-click the CHM file.In the Open File—Security Warning dialog box, clear the Always ask before opening this file check box.Click Open.Method 2Right-click the CHM file, and then click Properties.Click Unblock.Double-click the CHM file to open it.И где бы вы думали это написано? В том самом CHM, который не открывается, если не проделать вышеописанные манипуляции.
+
+

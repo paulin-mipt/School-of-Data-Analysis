@@ -1,0 +1,4 @@
+
+Из спецификации на выполнение задания:If user cannot be registered for some weird reasons, we need to redirect him somewhere or show him something…
+
+

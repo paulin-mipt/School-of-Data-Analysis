@@ -1,0 +1,4 @@
+
+Дали нам библиотеку для переформатирования сообщений вместе с исходным кодом. Один взгляд на код — и сразу стало страшно. По всему тексту валялись комментарии:// TODO: fix me// TODO: make this better// TODO: this is most definitely NOT thread safe// TODO: this is incorrect// TODO: this does not print the contentsВся радость в том, что работало всё исправно. Ни одной ошибки. Стрёмно было — не передать.
+
+

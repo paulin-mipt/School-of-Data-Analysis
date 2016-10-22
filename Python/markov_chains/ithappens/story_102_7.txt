@@ -1,0 +1,4 @@
+
+Работаю в саппорте одного криворожского провайдера. Звонит клиент: «Интернет не работает!». Ну да, мы уже догадались.Смотрю tcpdump — у него в свойствах PPPoE не указано «имя службы». После пятнадцати минут мучений юзер всё-таки смог зайти в свойства подключения. Прошу его написать имя службы большими латинскими буквами: «ISP_DARLICS».Клиент с яростью утверждает, что всё написал, но связи до сих пор нет. Снова запускаю tcpdump. Дружная команда техников смеялась до слёз:[root@radiofarm ~]# tcpdump -i vlan52 -qnnp ether host 00:1B:FC:05:3A:25tcpdump: WARNING: vlan52: no IPv4 address assignedtcpdump: verbose output suppressed, use -v or -vv for full protocol decodelistening on vlan52, link-type EN10MB (Ethernet), capture size 96 bytes08:55:08.654261 PPPoE PADI [Service-Name "ISP NIJNIE PODGERKIVANIE DARLIKS"] [Host-Uniq 0x0800000008000000]Теперь мы всем клиентам объясняем на пальцах, что такое underscore. Может, стоит сменить имя службы?..
+
+

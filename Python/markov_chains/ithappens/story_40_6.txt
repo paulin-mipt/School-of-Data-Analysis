@@ -1,0 +1,4 @@
+
+Потребовалось мне обновления для ALSA. Посмотрел на сайте - последняя версия 1.0.18. Ну, надо поставить.Либы и плагины встали нормально, начал ставить утилиты. Выпадает с ошибкой, что у меня отсутствует xmlto. Ну, думаю, проблем-то, сейчас поставлю.Нашел, скачал, сконфигурил, запустил make. Тут эта сволочь полезла в интернет выкачивать какой-то файлик, долго мучилась, пыталась его забрать, и наконец заявила, что это на моей системе невозможно. После чего ненавязчиво порекомендовала сменить дистрибутив.полный текст сообщения make:Q: I'm trying to build xmlto on my Debian box, but it doesn't work.A: If you get `Attempt to load network entity' errors when buildingxmlto, your system does not have the required support for XMLCatalogs(http://www.oasis-open.org/committees/entity/spec-2001-08-06.html).In particular, Debian has no support for these. Try the FedoraProject <http://fedoraproject.org>.
+
+

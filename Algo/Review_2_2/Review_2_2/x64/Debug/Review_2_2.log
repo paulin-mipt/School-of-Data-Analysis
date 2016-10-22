@@ -1,0 +1,49 @@
+﻿Сборка начата 28.05.2016 8:15:18.
+     1>Проект "C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\Review_2_2\Review_2_2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt condensation_review.cpp
+         condensation_review.cpp
+     1>c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(96): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     1>c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(407): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(291): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int CountMinSourceComponentSize<Graph>(const Graph &)"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+     1>c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(355): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(402): note: см. ссылку на создание экземпляров функции шаблон при компиляции "Graph MakeCondensedGraph<Graph>(const Graph &,const Graph::VertexSets &)"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(291): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int CountMinSourceComponentSize<Graph>(const Graph &)"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+     1>c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(144): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(144): note: при компиляции функции-члена "<Нет данных>" класса <Нет данных>
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(347): note: см. ссылку на создание экземпляров функции шаблон при компиляции "int StrongConnectComponentFinder<Graph>::GetComponentCount(void) const"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(341): note: см. ссылку на создание экземпляров класса шаблон при компиляции "StrongConnectComponentFinder<Graph>"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+         c:\users\paulin\dropbox\shad\algo\review_2_2\review_2_2\condensation_review.cpp(401): note: см. ссылку на создание экземпляров функции шаблон при компиляции "Graph::VertexSets FindStrongConnectivityComponents<Graph>(const Graph &)"
+                 with
+                 [
+                     Graph=Graph
+                 ]
+     1>cl : командная строка warning D9028: сбой минимальной повторной сборки, возврат к обычной сборке
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\x64\Debug\Review_2_2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\x64\Debug\Review_2_2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\x64\Debug\Review_2_2.lib" /MACHINE:X64 x64\Debug\condensation_review.obj
+         Review_2_2.vcxproj -> C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\x64\Debug\Review_2_2.exe
+     1>Сборка проекта "C:\Users\Paulin\Dropbox\shad\Algo\Review_2_2\Review_2_2\Review_2_2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:10.83

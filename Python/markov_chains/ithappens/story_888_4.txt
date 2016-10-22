@@ -1,0 +1,4 @@
+
+В процессе работы полез в исходники одного пакета (очень удобного и полезного, кстати). Код красивый, прозрачный, понятный, неплохо откомментированный. И вдруг натыкаюсь на такой кусок:// check if any component is linked to OnRxChar eventprocedure CheckLinks;{$WARNINGS OFF}varI: Integer;FuckMeAndMyDogToo: Pointer; //TCPortBytes;{Pointer}ComLink: TComLink;ReadFromBuffer: Boolean;beginFuckMeAndMyDogToo := nil;Это ж до чего человек дошёл в процессе разработки, что так переменную обозвал?
+
+

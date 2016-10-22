@@ -1,0 +1,4 @@
+
+Мануал по установке Arch Linux, настройка звука.Английская версия:Sound testEnsure your speakers are properly connected, and test your sound configuration as normal user using /usr/bin/aplay:$ aplay /usr/share/sounds/alsa/Front_Center.wavYou should hear a very eloquent woman say, “Front, center.”Русский перевод:Проверка звукаПроверьте настройку вашей аудиокарты коммандой aplay:$ aplay /usr/share/sounds/alsa/Front_Center.wavВы услышите чарующий, манящий, жаркий и нежный, искрящийся всеми цветами радуги и клубящийся утренним туманом на горе Фудзи в лучах восходящего солнца женский голос, произносящий: «Front, center».Красив и богат великий и могучий русский язык.
+
+

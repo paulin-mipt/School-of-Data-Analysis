@@ -1,0 +1,4 @@
+
+Я переписал часы в кроне. Теперь, когда я работаю (с 22:30 до 07:00), мне не мешают logwatch, logrotate, tmpwatch, readehead, updatedb, makewhatis и прочие, что отнимают у меня I/O и CPU.
+
+

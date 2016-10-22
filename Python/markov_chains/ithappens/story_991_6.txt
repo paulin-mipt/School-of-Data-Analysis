@@ -1,0 +1,4 @@
+
+Вывод команды rpm --help:RPM version 4.4.2.3Copyright (C) 1998-2002 - Red Hat, Inc.This program may be freely redistributed under the terms of the GNU GPLUsage: rpm [-aKfgpWHqV] [-aKfgpWHqVcdils] [-aKfgpWHqVcdilsaKfgpWHqV] [-aKfgpWHqVcdilsaKfgpWHqV] [-aKfgpWHqVcdilsaKfgpWHqV] [-aKfgpWHqVcdilsaKfgpWHqVK] [-aKfgpWHqVcdilsaKfgpWHqVK] [-aKfgpWHqVcdilsaKfgpWHqVKi] [-aKfgpWHqVcdilsaKfgpWHqVKiv] [-aKfgpWHqVcdilsaKfgpWHqVKiv] [-aKfgpWHqVcdilsaKfgpWHqVKiv?] [-a|--all] [-f|--file] [-g|--group]Линукс — это просто.
+
+

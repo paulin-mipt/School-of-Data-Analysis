@@ -1,0 +1,4 @@
+
+С точки зрения Налогового Кодекса РФ программный код приравнивается к произведениям литературы. И верно, а почему бы и нет?if (newGame) resources.free();s = FILENAME + 3;setLocation(); load(s);loadDialog.process();try { setGamerColor(RED); }catch(Exception e) { reset(); }while (notReady) { objects.make();if (resourceNotFound) break; }byte result; // сменить на int!music();System.out.print("");Смысл довольно туманный — как и полагается стихам.
+
+

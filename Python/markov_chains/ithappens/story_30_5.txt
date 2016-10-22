@@ -1,0 +1,4 @@
+
+В процессе работы над проектом на С# нарвался на следующее:DateSelect.Value = (DateTime.Now.Month.ToString().Length > 1 ? DateTime.Now.Month.ToString() : "0" + DateTime.Now.Month) + "/" + (DateTime.Now.Day.ToString().Length > 1 ? DateTime.Now.Day.ToString() : "0" + DateTime.Now.Day) + "/" + DateTime.Now.Year.ToString().Remove(0, 2);До сих пор не понял, чем этому человеку не понравилосьDateSelect.Value = DateTime.Now.ToString("MM/dd/yy");
+
+

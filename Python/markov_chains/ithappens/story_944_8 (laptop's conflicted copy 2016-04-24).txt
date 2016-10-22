@@ -1,0 +1,4 @@
+
+Однажды во время дебага обнаружил следующее:I/DEBUG(3176): debuggerd committing suicide to free the zombie!Конец света наступит точно в этом году.
+
+

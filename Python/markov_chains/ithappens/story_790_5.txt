@@ -1,0 +1,4 @@
+
+Устанавливаю ArchLinux. В самом начале открывается консоль, а в ней сообщение:If you are looking to install Arch on something more exotic, such as your kerosene-powered cheese grater, please consult wiki.archlinux.org.Похоже, линукс на всяких там тостерах — не такая уж и редкость.
+
+

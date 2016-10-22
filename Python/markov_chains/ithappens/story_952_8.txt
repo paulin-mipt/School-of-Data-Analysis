@@ -1,0 +1,4 @@
+
+Веб-проект:// Самое корректное удаление регистрации глобальных переменных ;)if (ini_get('register_globals')) die('register_globals включены! Это плохо! Необходимо добавить в .htaccess строку: php_flag register_globals off');
+
+

@@ -1,0 +1,4 @@
+
+Пришёл на работу новый специалист по информационной безопасности. Первым делом начал сканировать нашу сеть в поисках дыр. Прислал отчёт админам:Просканировал принтер и нашёл кучу дырок в безопасности.TCP-порты (6)21 ftp => File Transfer Protocol23 telnet => Telnet80 http => World Wide Web HTTP443 https => HTTP protocol over TLS/SSL515 printer => Printer Spooler9100 JetDirect => HP JetDirect PrintServerUDP-порты (3)137 netbios-ns => NetBIOS Name Service161 snmp => Simple Network Management Protocol2049 nfsd => Network File System daemonАдмины нервно пьют корвалол и сочиняют служебку о профпригодности и вменяемости нового сотрудника.
+
+

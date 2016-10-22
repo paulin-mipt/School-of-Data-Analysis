@@ -1,0 +1,4 @@
+
+Разбирая код сайта, наткнулся на строчку:<meta http-equiv="Content-type" content="image/gif; charset=utf-8">Вот в какой стране это писали?
+
+

@@ -1,0 +1,4 @@
+
+Наткнулся на чудный кусок кода в проверке параметров шаблона:{if isset($area_heigth)} {*compatible with bad English*}{assign var='area_height' value=$area_heigth}{/if}
+
+
