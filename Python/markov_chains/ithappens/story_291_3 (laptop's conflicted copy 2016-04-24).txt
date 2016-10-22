@@ -1,4 +1,0 @@
-
-Недавно железку перезагрузить пришлось. В общем, комментарии излишни:Mar 24 10:31:25 server2 SunPCi: [ID 702911 user.error]Your System Time appears to be set in the futureMar 24 10:31:25 server2 SunPCi: [ID 702911 user.error]I can't believe it's really Wed Mar 24 10:31:25 2010
-
-

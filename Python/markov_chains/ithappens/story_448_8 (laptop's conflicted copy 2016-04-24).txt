@@ -1,4 +1,0 @@
-
-Наткнулся в коде страницы с формой логина на такую функцию:function check() {if (document.login.user.value == "user" &&document.login.password.value == "correct_password")    window.location.href = 'http://this.site/login.html';else    window.location.href = 'http://this.site/loginfehler.html';return false;}
-
-

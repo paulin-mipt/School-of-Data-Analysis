@@ -1,4 +1,0 @@
-
-Специальность «Программная инженерия», 1-й курс. Пример кода из методички про константы :ConstPI = 3.14; { Real constant }KOEF_1 = 9; { Integer constant }KOEF_2 = KOEF_1*PI − 1; { Real constant }MY_OPINION = True; { Boolean constant }Компьютерщики всё-таки захватят мир. Когда-нибудь…
-
-

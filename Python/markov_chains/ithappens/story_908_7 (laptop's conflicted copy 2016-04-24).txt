@@ -1,4 +1,0 @@
-
-Найдено в коммерческом коде. Пишет бывший московский студент. Ну что, не только индусы получают деньги за объём программного кода.if (isSelected) {component.setBackground(Color.BLUE);} else if (!isSelected) {component.setBackground(Color.WHITE);} else {throw new IllegalStateException("Table row should be either selected, or not");}
-
-

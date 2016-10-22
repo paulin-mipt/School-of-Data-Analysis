@@ -1,4 +1,0 @@
-
-protected void btnCancel_Click(object sender, EventArgs e){GoBack(); //правильно! вали, откуда пришёл! нех здесь тебе делать, трус!}protected void btnOk_Click(object sender, EventArgs e){if (imageID != 0){edit(this.imageID);GoBack(); //вали, и не звони мне больше!}else{add();GoBack(); //и маму свою забери, куртизанка рублёвская!}}А когда этот кодер начинал работать, ещё был адекватным.
-
-

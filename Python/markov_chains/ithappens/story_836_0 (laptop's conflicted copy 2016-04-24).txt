@@ -1,4 +1,0 @@
-
-Читаю продукт жизнедеятельности некоего французского программера, объевшегося обкурившихся лягушек. Натыкаюсь на такую строку:Method takes the string and string to split. And split the string at string to split, also add space at the end of the string if string ends with string to split.А вам слабо?
-
-

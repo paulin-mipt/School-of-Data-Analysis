@@ -1,4 +1,0 @@
-
-Недавно столкнулся с интернет-хранилищем Amazon. Геморрой ужасный: скорость копирования резервной копии была ужасно маленькой, хотя на официальном сайте была обещана пара мегабит. В итоге я обратился к их саппорту, спросил, в чём проблема, и получил два ответа. Первый объяснял, какие параметры мне стоит поменять, а вот второй ответ я приведу в оригинале:my ne mozhem uveliuchit' skorost' vashego internet connection.dlya etogo nado obraschatsya k vashemu ISP.uchityvaya chto Washington state daleko ot rosii, kakuyu esche vy skorost' hotite?
-
-

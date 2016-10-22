@@ -1,4 +1,0 @@
-
-Разбираю код. Описана переменная — флаг, который взводится при редактировании записи в таблице.var FlagOfChange: boolean;Как-то витиевато названа переменная. Но следом за ней идёт комментарий, который сразу всё ставит на свои места:var FlagOfChange: boolean; {The future’s in the air, I can feel it everywhere blowing with the flag of change…} {Scorpions forever!}Править название переменной у меня рука не поднялась.
-
-

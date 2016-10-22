@@ -1,4 +1,0 @@
-
-Попытался обновить плагин один на Убунте, в ответ получил такое уведомление:Your version is from the future! You are running a more recent version than the server knows. I conclude: You are either a developer or a magician :-D …Уличная магия, блин.
-
-

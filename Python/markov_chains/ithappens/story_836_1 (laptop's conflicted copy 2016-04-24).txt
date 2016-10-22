@@ -1,4 +1,0 @@
-
-Понадобилось мне как-то раз проверить что-то там под серверной операционкой известной компании родом из США. Заметьте, ОС русскоязычной версии 2003 года. Запряг софтину для виртуализации другой, не менее известной американской компании: давай, мол, ставь мне автоматом ось, пока я IT happens дочитаю. Зверёк проверенный, всегда на выходе выдаёт то, что просили. Что характерно, на этот раз он тоже сделал всё быстро и верно. Правда, в конце запнулся и выдал табличку со следующим содержанием:Installation der ****** toolsEs wurde ermittelt dass die Hardwarebeschleunigung in dieser virtuellen Maschine nicht aktiviert ist. Dies kann die Leistung von Maus und Grafikanzeige beeintrachtigen. Mochten Sie die Hardwarebeschleunigung jetzt anpassen?И ниже две трогательные кнопки: «Да» и «Нет».Зато теперь я точно знаю, что ощущает хозяин овчарки, в ответ на команду «Голос!» услышав:— Gestatten Sie mir zu sagen, aber leise?
-
-

@@ -1,4 +1,0 @@
-
-Нашёл в коде студенческой лабораторной:bool rakNaGore = 1;bool svistnet = 0;while (rakNaGore != svistnet) {…
-
-
